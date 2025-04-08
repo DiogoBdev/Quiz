@@ -1,5 +1,3 @@
-📄 Licença
-Este projeto pode ou não conter uma licença. Se desejar, posso te ajudar a adicionar uma.
 =======
 # 💼 Projeto Immes
 
