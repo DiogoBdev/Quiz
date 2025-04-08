@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz.MainPage">
+    <VerticalStackLayout
+        Padding="30,0"
+        Spacing="25">
+        <Image
+            Source="dotnet_bot.png"
+            HeightRequest="185"
+            Aspect="AspectFit"
+            SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+
+        <Grid 
+            ColumnDefinitions="*,*"
+            RowDefinitions="Auto,Auto,Auto,Auto"
+            ColumnSpacing="5"
+            RowSpacing="5">
+
+            <Button
+                Grid.Column="0"
+                Grid.Row="0"
+                Text="&#xf015;"
+                FontFamily="FontAwesomeSolid"
+                HeightRequest="80"
+                WidthRequest="80"
+                x:Name="BtnCiencia"
+                Clicked="BtnCiencia_Clicked">
+                <ToolTipProperties.Text>
+                    Ciência
+                </ToolTipProperties.Text>
+            </Button>
+
+            <Button
+                Grid.Column="1"
+                Grid.Row="0"
+                Text="Geografia"
+                HeightRequest="80"
+                WidthRequest="80">
+                <ToolTipProperties.Text>
+                    Geografia
+                </ToolTipProperties.Text>                
+            </Button>
+
+            <Button
+                Grid.Column="0"
+                Grid.Row="1"
+                Text="Matemática"
+                HeightRequest="80"
+                WidthRequest="80">
+                <ToolTipProperties.Text>
+                    Matemática
+                </ToolTipProperties.Text>                
+            </Button>
+
+            <Button
+                Grid.Column="1"
+                Grid.Row="1"
+                Text="Inglês"
+                HeightRequest="80"
+                WidthRequest="80">
+                <ToolTipProperties.Text>
+                    Inglês
+                </ToolTipProperties.Text>                
+            </Button>
+
+            <Button
+                Grid.Column="0"
+                Grid.Row="2"
+                Text="Português"
+                HeightRequest="80"
+                WidthRequest="80">
+                <ToolTipProperties.Text>
+                    Português
+                </ToolTipProperties.Text>                
+            </Button>
+
+            <Button
+                Grid.Column="1"
+                Grid.Row="2"
+                Text="História"
+                HeightRequest="80"
+                ToolTipProperties.Text="História"
+                WidthRequest="80">
+            </Button>
+
+            <Button
+                Grid.Column="0"
+                Grid.Row="3"
+                Grid.ColumnSpan="2"
+                Text="Variado"
+                HeightRequest="80"
+                HorizontalOptions="Fill">
+                <ToolTipProperties.Text>
+                    Variado
+                </ToolTipProperties.Text>
+            </Button>
+        </Grid>
+    </VerticalStackLayout>
+
+</ContentPage>

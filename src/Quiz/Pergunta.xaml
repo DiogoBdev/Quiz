@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quiz.Pergunta"
+             Title="Pergunta">
+    <StackLayout Padding="20">
+        <Grid ColumnDefinitions="*"
+              RowDefinitions="auto,auto,auto,auto,auto,auto,auto"
+              RowSpacing="10">
+            <!-- Pergunta -->
+            <Border Grid.Column="0"
+                    Grid.Row="1"
+                    BackgroundColor="#CFE2FF"
+                    Padding="10">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="20"/>
+                </Border.StrokeShape>
+
+                <Label Text="Quem descobriu o Brasil?"
+                       FontSize="14"
+                       FontAttributes="Bold"/>
+            </Border>
+            
+            <!-- Resposta 01 -->
+            <Border Grid.Column="0"
+                    Grid.Row="2"
+                    x:Name="Resp01"
+                    BackgroundColor="#E2E3E5"
+                    Margin="25,0,0,0"
+                    Padding="10">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="20"/>
+                </Border.StrokeShape>
+
+                <Border.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                </Border.GestureRecognizers>                
+
+                <Grid>
+                    <Border Stroke="Black"
+                            WidthRequest="30"
+                            HeightRequest="30"
+                            HorizontalOptions="Start"
+                            BackgroundColor="White">
+                        <Border.StrokeShape>
+                            <RoundRectangle CornerRadius="15"/>
+                        </Border.StrokeShape>
+                        <Label Text="1"
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center"
+                               FontSize="16"
+                               FontAttributes="Bold"/>
+                    </Border>
+                    
+                    <Label Text="Resp01"
+                           Margin="40,0,0,0"
+                           VerticalOptions="Center"/>
+                </Grid>
+            </Border>
+
+            <!-- Resposta 02 -->
+            <Border Grid.Column="0"
+                    Grid.Row="3"
+                    x:Name="Resp02"
+                    BackgroundColor="#FFF3CD"
+                    Margin="25,0,0,0"
+                    Padding="10">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="20"/>
+                </Border.StrokeShape>
+
+                <Grid>
+                    <Border Stroke="Black"
+                            WidthRequest="30"
+                            HeightRequest="30"
+                            HorizontalOptions="Start"
+                            BackgroundColor="White">
+                        <Border.StrokeShape>
+                            <RoundRectangle CornerRadius="15"/>
+                        </Border.StrokeShape>
+                        <Label Text="2"
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center"
+                               FontSize="16"
+                               FontAttributes="Bold"/>
+                    </Border>
+
+                    <Label Text="Resp02"
+                           Margin="40,0,0,0"
+                           VerticalOptions="Center"/>
+                </Grid>
+
+            </Border>
+
+            <!-- Resposta 03 -->
+            <Border Grid.Column="0"
+                    Grid.Row="4"
+                    x:Name="Resp03"
+                    BackgroundColor="#CED4DA"
+                    Margin="25,0,0,0"
+                    Padding="10">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="20"/>
+                </Border.StrokeShape>
+
+                <Grid>
+                    <Border Stroke="Black"
+                            WidthRequest="30"
+                            HeightRequest="30"
+                            HorizontalOptions="Start"
+                            BackgroundColor="White">
+                        <Border.StrokeShape>
+                            <RoundRectangle CornerRadius="15"/>
+                        </Border.StrokeShape>
+                        <Label Text="3"
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center"
+                               FontSize="16"
+                               FontAttributes="Bold"/>
+                    </Border>
+
+                    <Label Text="Resp03"
+                           Margin="40,0,0,0"
+                           VerticalOptions="Center"/>
+                </Grid>
+            </Border>
+
+            <!-- Resposta 04 -->
+            <Border Grid.Column="0"
+                    Grid.Row="5"
+                    x:Name="Resp04"
+                    BackgroundColor="#CFF4FC"
+                    Margin="25,0,0,0"
+                    Padding="10">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="20"/>
+                </Border.StrokeShape>
+
+                <Grid>
+                    <Border Stroke="Black"
+                            WidthRequest="30"
+                            HeightRequest="30"
+                            HorizontalOptions="Start"
+                            BackgroundColor="White">
+                        <Border.StrokeShape>
+                            <RoundRectangle CornerRadius="15"/>
+                        </Border.StrokeShape>
+                        <Label Text="4"
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center"
+                               FontSize="16"
+                               FontAttributes="Bold"/>
+                    </Border>
+
+                    <Label Text="Resp04"
+                           Margin="40,0,0,0"
+                           VerticalOptions="Center"/>
+                </Grid>
+            </Border>
+
+            <HorizontalStackLayout Grid.Column="0"
+                                   Grid.Row="6"
+                                   Spacing="10"
+                                   HorizontalOptions="Center">
+                <Button Text="Confirmar"
+                        WidthRequest="120"
+                        BackgroundColor="Green"
+                        FontSize="16"/>
+                <Button Text="Pular"
+                        WidthRequest="120"
+                        BackgroundColor="Yellow"
+                        TextColor="Black"
+                        FontSize="16"/>
+                <Button Text="Parar"
+                        WidthRequest="120"
+                        BackgroundColor="Red"
+                        FontSize="16"/>
+
+            </HorizontalStackLayout>
+
+        </Grid>
+              
+    </StackLayout>
+</ContentPage>

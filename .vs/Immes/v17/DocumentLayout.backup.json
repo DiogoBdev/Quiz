@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Immes\\Desktop\\Immes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|c:\\users\\immes\\desktop\\immes\\src\\quiz\\pergunta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|solutionrelative:src\\quiz\\pergunta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|c:\\users\\immes\\desktop\\immes\\src\\quiz\\pergunta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|solutionrelative:src\\quiz\\pergunta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|c:\\users\\immes\\desktop\\immes\\src\\quiz\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|solutionrelative:src\\quiz\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|c:\\users\\immes\\desktop\\immes\\src\\quiz\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|solutionrelative:src\\quiz\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|c:\\users\\immes\\desktop\\immes\\src\\quiz\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|solutionrelative:src\\quiz\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|c:\\users\\immes\\desktop\\immes\\src\\quiz\\resources\\fonts\\fluentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C37404-B9D5-43AD-BFF4-7A83B29C0A6F}|src\\Quiz\\Quiz.csproj|solutionrelative:src\\quiz\\resources\\fonts\\fluentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pergunta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\Pergunta.xaml.cs",
+              "RelativeDocumentMoniker": "src\\Quiz\\Pergunta.xaml.cs",
+              "ToolTip": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\Pergunta.xaml.cs",
+              "RelativeToolTip": "src\\Quiz\\Pergunta.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:56:22.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pergunta.xaml",
+              "DocumentMoniker": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\Pergunta.xaml",
+              "RelativeDocumentMoniker": "src\\Quiz\\Pergunta.xaml",
+              "ToolTip": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\Pergunta.xaml",
+              "RelativeToolTip": "src\\Quiz\\Pergunta.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T22:37:45.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FluentUI.cs",
+              "DocumentMoniker": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\Resources\\Fonts\\FluentUI.cs",
+              "RelativeDocumentMoniker": "src\\Quiz\\Resources\\Fonts\\FluentUI.cs",
+              "ToolTip": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\Resources\\Fonts\\FluentUI.cs",
+              "RelativeToolTip": "src\\Quiz\\Resources\\Fonts\\FluentUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:32:25.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "src\\Quiz\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\MainPage.xaml.cs",
+              "RelativeToolTip": "src\\Quiz\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA5wAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:18:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\MainPage.xaml",
+              "RelativeDocumentMoniker": "src\\Quiz\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\MainPage.xaml",
+              "RelativeToolTip": "src\\Quiz\\MainPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T22:15:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "src\\Quiz\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Immes\\Desktop\\Immes\\src\\Quiz\\MauiProgram.cs",
+              "RelativeToolTip": "src\\Quiz\\MauiProgram.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:17:59.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
