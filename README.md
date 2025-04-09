@@ -50,4 +50,3 @@ Contribuições são bem-vindas! Por favor, siga estas orientações:
 
 Este projeto está licenciado sob os termos da licença **MIT**.  
 Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
->>>>>>> a0656a5 (docs: atualiza README e adiciona LICENSE com estrutura e instruções melhoradas)
