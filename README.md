@@ -1,4 +1,4 @@
-# 💼 Projeto Immes
+# 💼 Projeto Quiz
 
 [![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
